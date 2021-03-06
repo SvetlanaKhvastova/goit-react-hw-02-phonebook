@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SvetlanaKhvastova/goit-react-hw-02-phonebook/static/css/main.1992217e.chunk.css",
+    "main.js": "/SvetlanaKhvastova/goit-react-hw-02-phonebook/static/js/main.351c7863.chunk.js",
+    "main.js.map": "/SvetlanaKhvastova/goit-react-hw-02-phonebook/static/js/main.351c7863.chunk.js.map",
+    "runtime-main.js": "/SvetlanaKhvastova/goit-react-hw-02-phonebook/static/js/runtime-main.65e219bd.js",
+    "runtime-main.js.map": "/SvetlanaKhvastova/goit-react-hw-02-phonebook/static/js/runtime-main.65e219bd.js.map",
+    "static/css/2.de71bbd8.chunk.css": "/SvetlanaKhvastova/goit-react-hw-02-phonebook/static/css/2.de71bbd8.chunk.css",
+    "static/js/2.6d6cfc92.chunk.js": "/SvetlanaKhvastova/goit-react-hw-02-phonebook/static/js/2.6d6cfc92.chunk.js",
+    "static/js/2.6d6cfc92.chunk.js.map": "/SvetlanaKhvastova/goit-react-hw-02-phonebook/static/js/2.6d6cfc92.chunk.js.map",
+    "index.html": "/SvetlanaKhvastova/goit-react-hw-02-phonebook/index.html",
+    "static/css/2.de71bbd8.chunk.css.map": "/SvetlanaKhvastova/goit-react-hw-02-phonebook/static/css/2.de71bbd8.chunk.css.map",
+    "static/css/main.1992217e.chunk.css.map": "/SvetlanaKhvastova/goit-react-hw-02-phonebook/static/css/main.1992217e.chunk.css.map",
+    "static/js/2.6d6cfc92.chunk.js.LICENSE.txt": "/SvetlanaKhvastova/goit-react-hw-02-phonebook/static/js/2.6d6cfc92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65e219bd.js",
+    "static/css/2.de71bbd8.chunk.css",
+    "static/js/2.6d6cfc92.chunk.js",
+    "static/css/main.1992217e.chunk.css",
+    "static/js/main.351c7863.chunk.js"
+  ]
+}
